@@ -1,0 +1,98 @@
+body{
+       background-color:rgb(136, 132, 132);
+}
+.d{
+       display:flex;
+       flex-wrap:wrap;
+       width:100%;
+       margin-top:40px;
+       justify-content:center;
+}
+#div1{
+       width:600px;
+       height:280px;
+       padding-top:20px;
+       background-color:rgb(25, 182, 182);
+       box-shadow:4px 4px 6px black;
+       border:1px solid black;
+       text-align:center;
+       padding-bottom:26px;
+}
+#h{
+       color:rgb(250, 241, 241);
+       font-size:30px;
+}
+#btn1:hover{
+       background-color: antiquewhite;
+       color:rgb(104, 100, 100);
+}
+#input{
+       width:450px;
+       outline:none;
+       height:30px;
+       font-size:20px;
+       border:2px solid rgb(25, 182, 182);
+       border-radius:10px;
+       text-align:center;
+}
+#btn1{
+       margin-top:40px;
+       width:400px;
+       height:33px;
+       border:none;
+       background-color:rgb(25, 182, 182);
+       border:3px solid rgb(250, 241, 241);
+       border-radius:8px;
+       color:white;
+       font-size:20px;
+}
+#a{
+       border:2px solid rgb(67, 236, 138);
+       height:24px;
+       width:400px;
+       color:rgb(67, 236, 138);
+       display:none;
+       font-size:15px;
+       padding-top:4px;
+       margin:auto;
+}
+#h2{
+       color:rgb(71, 179, 179);
+       font-size:30px;
+}
+p{
+       font-size:30px;
+}
+p:hover{
+       background-color:rgb(136, 132, 132);
+}
+#b{
+       border:2px solid red;
+       height:24px;
+       margin:auto;
+       width:400px;
+       margin-top:10px;
+       padding-top:4px;
+       font-size:15px;
+       display:none;
+       color:red;
+}
+
+#btn2{
+       width:400px;
+       height:33px;
+       border:none;
+       background-color:rgb(211, 202, 202);
+       border:3px solid rgb(25, 182, 182);
+       border-radius:8px;
+       color:black;
+       font-size:20px;
+}
+#div2{
+       text-align:center;
+       width:600px;
+       padding-top:20px;
+       background-color:rgb(211, 202, 202);
+       padding-bottom:20px;
+       box-shadow:4px 4px 4px black;
+}
